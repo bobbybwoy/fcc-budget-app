@@ -19,3 +19,7 @@ This is my solution for building this project. The full description of the task 
 4. Change to the cloned repository and run the application:
 
         python3 main.py
+
+5. Deactivate the virtual environment:
+
+        deactivate
