@@ -8,18 +8,7 @@ This is my solution for building this project. The full description of the task 
 
 1. Clone this repository to a location of your choice.
 
-2. Create a virtual environement:
+2. Change to the cloned repository and run the application:
 
-        python -m venv <virtual_environment_directory>
-
-3. Activate the environment:
-
-        source <virtual_environment_directory>/bin/activate
-
-4. Change to the cloned repository and run the application:
-
+        cd fcc-budget-app
         python3 main.py
-
-5. Deactivate the virtual environment:
-
-        deactivate
